@@ -5,7 +5,7 @@ services:
   google-pub-sub:
     image: messagebird/gcloud-pubsub-emulator:latest
     restart: unless-stopped
-    container_name: iot-google-pub-sub
+    container_name: google-pub-sub
     environment:
       - CLOUDSDK_AUTH_DISABLE_CREDENTIALS=true
       - PUBSUB_PROJECT1=My-ProjectId
