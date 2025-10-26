@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Google.Api.Gax" Version="4.12.1" />
+    <PackageReference Include="Google.Cloud.PubSub.V1" Version="3.29.0" />
+    <PackageReference Include="Microsoft.Extensions.Diagnostics.HealthChecks" Version="9.0.10" />
+    <PackageReference Include="Microsoft.Extensions.Options" Version="9.0.10" />
+    <PackageReference Include="Spectre.Console" Version="0.52.0" />
+    <PackageReference Include="Spectre.Console.Cli" Version="0.52.0" />
+    <PackageReference Include="Spectre.Console.ImageSharp" Version="0.52.0" />
+  </ItemGroup>
+
+</Project>

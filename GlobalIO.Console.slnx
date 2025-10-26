@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="GlobalIO.Console/GlobalIO.Console.csproj" />
+  <Project Path="GlobalIO.Infrastructure/GlobalIO.Infrastructure.csproj" Id="3aac5adc-9c03-4543-a996-be287e573eac" />
+</Solution>
