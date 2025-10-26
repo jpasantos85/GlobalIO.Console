@@ -1,8 +1,8 @@
 # Google Pub/Sub Manager with Emulator / Gerenciador Google Pub/Sub com Emulador
 
-### 📋 Project Overview / Visão Geral do Projeto
-
 <img width="1659" height="565" alt="image" src="https://github.com/user-attachments/assets/8f57484c-ac73-4d9b-a6b7-e9b1fb3bad94" />
+
+### 📋 Project Overview / Visão Geral do Projeto
 
 A powerful console application built with .NET 9 for interactive management and exploration of Google Cloud Pub/Sub. Supports both production Google Cloud services and local Docker emulator environments.
 Uma aplicação console poderosa desenvolvida com .NET 9 para gerenciamento interativo e exploração do Google Cloud Pub/Sub. Suporta tanto serviços de produção do Google Cloud quanto ambientes de emulador Docker local.
