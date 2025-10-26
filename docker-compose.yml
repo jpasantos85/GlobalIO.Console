@@ -1,0 +1,16 @@
+version: '3.9'
+
+services:  
+
+  google-pub-sub:
+    image: messagebird/gcloud-pubsub-emulator:latest
+    restart: unless-stopped
+    container_name: iot-google-pub-sub
+    environment:
+      - CLOUDSDK_AUTH_DISABLE_CREDENTIALS=true
+      - PUBSUB_PROJECT1=My-ProjectId
+      - PUBSUB_LISTEN_ADDRESS=0.0.0.0:8681
+    expose:
+      - 8681
+    ports:
+      - "8681:8681"
