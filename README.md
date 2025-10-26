@@ -1,3 +1,5 @@
+# Google Pub/Sub Manager with Emulator / Gerenciador Google Pub/Sub com Emulador
+
 ### 📋 Project Overview / Visão Geral do Projeto
 
 A powerful console application built with .NET 9 for interactive management and exploration of Google Cloud Pub/Sub. Supports both production Google Cloud services and local Docker emulator environments.
@@ -67,6 +69,8 @@ PUBSUB_EMULATOR_HOST=localhost:8681
 }
 ```
 
+---  
+
 ## 🎮 Interactive Features / Funcionalidades Interativas
 
 | Feature / Funcionalidade | Description / Descrição |
@@ -76,28 +80,11 @@ PUBSUB_EMULATOR_HOST=localhost:8681
 | 🛡 **Error Handling** / **Tratamento de Erros** | Graceful error recovery and user guidance |
 | 🔄 **Auto-retry** / **Tentativa Automática** | Smart retry logic for transient failures |
 
-## 🌟 Coming Soon / Em Breve
-
-> **Stay tuned for exciting updates!** / **Fique ligado para atualizações emocionantes!**
-> 
-> We're continuously working to enhance your Pub/Sub management experience with:
-> / Estamos trabalhando continuamente para melhorar sua experiência de gerenciamento do Pub/Sub com:
-> 
-> - 🔐 **Enhanced Security** / **Segurança Aprimorada**
-> - 🎨 **Richer Visualizations** / **Visualizações Mais Ricas**
-> - ⚡ **Performance Optimizations** / **Otimizações de Performance**
-> - 🔧 **Advanced Tooling** / **Ferramentas Avançadas**
-
-## 📞 Support / Suporte
-
-This project is maintained for educational and development purposes. / Este projeto é mantido para fins educacionais e de desenvolvimento.
-
-**Happy coding! / Bons desenvolvimentos!** 🚀
-
----
-# Google Pub/Sub Manager with Emulator / Gerenciador Google Pub/Sub com Emulador
-
 ## 🚧 Future Improvements / Melhorias Futuras
+
+**Stay tuned for exciting updates!** / **Fique ligado para atualizações emocionantes!**
+- We're continuously working to enhance your Pub/Sub management experience with:
+- Estamos trabalhando continuamente para melhorar sua experiência de gerenciamento do Pub/Sub com:
 
 ### 🔐 Authentication Support / Suporte de Autenticação
 **Planned for future releases / Planejado para versões futuras:**
@@ -134,3 +121,13 @@ This project is maintained for educational and development purposes. / Este proj
   - Template system for topics/subscriptions / Sistema de templates
   - API client code generation / Geração de código cliente da API
   - Integration testing utilities / Utilitários para testes de integração
+
+---  
+
+## 📞 Support / Suporte
+
+This project is maintained for educational and development purposes. / Este projeto é mantido para fins educacionais e de desenvolvimento.
+
+**Happy coding! / Bons desenvolvimentos!** 🚀
+
+---
